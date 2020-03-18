@@ -1,0 +1,15 @@
+{
+  "name": "image-parser-uploader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "exif-reader": "^1.0.3",
+    "extractif": "^0.1.2",
+    "moment": "^2.24.0",
+    "sharp": "^0.25.1"
+  }
+}
